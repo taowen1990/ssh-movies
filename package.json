@@ -1,0 +1,17 @@
+{
+  "name": "ssh-movies",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "ssh2": "^0.5.5",
+    "winston": "^3.0.0-rc1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
